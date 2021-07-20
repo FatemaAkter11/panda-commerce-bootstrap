@@ -5,3 +5,13 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+/* shoes and backpack */
+.card{
+    border: none; 
+     border-radius: 10px; 
+    box-shadow: 5px 5px 10px lightgray;
+}
+/* Subscribe */
+#subscribe h6{
+    color: gray;
+}
